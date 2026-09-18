@@ -1,64 +1,31 @@
-<!-- ================= HEADER ================= -->
+<!-- ================= ABOUT SECTION ================= -->
+
+<h1 align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
+  <span style="color:#6A5ACD">About</span>
+  <span style="color:#00BFFF">Me</span>
+</h1>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A5ACD,100:00BFFF&height=200&section=header&text=PRAHALLAD%20NAYAK&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=6A5ACD&center=true&vCenter=true&width=600&lines=Turning+coffee+into+code+%E2%98%95;Data+%7C+ML+%7C+AI+%7C+Backend;Always+learning%2C+always+building+%F0%9F%9A%80" />
 </p>
 
-<h3 align="center">
-🐍 Python Developer • 📊 Data Science • 🤖 Machine Learning • 🧠 AI
-</h3>
+<img align="right" alt="Coding" width="380" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=6A5ACD&center=true&vCenter=true&width=650&lines=Building+with+Python+%F0%9F%90%8D;Exploring+Data+Science+%F0%9F%93%8A;Building+Machine+Learning+Systems+%F0%9F%A4%96;Creating+AI-powered+Applications+%F0%9F%A7%A0;Learning%2C+Building%2C+Improving+%F0%9F%9A%80" />
-</p>
-
-<p align="center">
-  <a href="YOUR_PORTFOLIO">
-    <img src="https://img.shields.io/badge/Portfolio-6A5ACD?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a>
-  <a href="YOUR_LINKEDIN">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:YOUR_EMAIL">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="500"/>
-</p>
-
----
-
-# 👨‍💻 About Me
-
-<img align="right" width="350" src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif">
+### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> **Who Am I?**
 
 ```python
-prahallad = {
-    "education": "B.Tech CSE",
-    "cgpa": "9.15 / 10",
-    "role": "Python Developer",
-    "interests": [
-        "Data Science",
-        "Machine Learning",
-        "Artificial Intelligence",
-        "Backend Development"
-    ],
-    "backend": [
-        "FastAPI",
-        "Django",
-        "Flask"
-    ],
-    "databases": [
-        "PostgreSQL",
-        "MySQL",
-        "SQLite"
-    ],
-    "currently_exploring": [
-        "GenAI",
-        "RAG",
-        "NLP"
-    ],
-    "goal": "Become a Data Scientist 🚀"
-}
+class PrahalladNayak:
+    def __init__(self):
+        self.name        = "Prahallad Nayak"
+        self.education   = "B.Tech CSE 🎓"
+        self.cgpa        = "9.15 / 10 ⭐"
+        self.location    = "Odisha, India 📍"
+        self.role        = "Python Developer 🐍"
+        self.stack       = ["FastAPI", "Django", "Flask"]
+        self.databases   = ["PostgreSQL", "MySQL", "SQLite"]
+        self.focus       = ["Data Science", "ML", "AI", "GenAI"]
+        self.goal        = "Become a Data Scientist 🚀"
+
+    def current_status(self):
+        return "Learning 📚 • Building 🛠️ • Improving 📈"
